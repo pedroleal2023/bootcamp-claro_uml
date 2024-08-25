@@ -13,7 +13,6 @@ Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 
 Passos Realizados
 Modelagem UML:
-
 Criado um diagrama UML para representar as classes e interfaces do componente iPhone, incluindo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
 Implementação em Java:
